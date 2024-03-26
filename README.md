@@ -1,5 +1,5 @@
 # AI-Journalist
-[![Twitter Follow](https://img.shields.io/twitter/follow/mattshumer_?style=social)](https://twitter.com/mattshumer_)
+
 
 # Claude-Journalist | An experimental AI-powered journalist
 
